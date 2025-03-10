@@ -10,7 +10,7 @@ ADMIN = int(os.environ.get("ADMIN", "1214167849"))
 
 
 # Premium 4GB Renaming Client Config
-STRING_SESSION = os.environ.get("STRING_SESSION", "")
+STRING_SESSION = os.environ.get("STRING_SESSION", "-1002488326553")
 
 
 # Log & Force Channel Config
