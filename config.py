@@ -10,17 +10,17 @@ ADMIN = int(os.environ.get("ADMIN", "1214167849"))
 
 
 # Premium 4GB Renaming Client Config
-STRING_SESSION = os.environ.get("STRING_SESSION", "@Movie_Centre1")
+STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
 
 # Log & Force Channel Config
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "Movie_Centre1")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002369019146"))
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002354465117"))
 
 
 # Mongo DB Database Config
 DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Utkarsh123:9335924360@utkarsh9.af91n.mongodb.net/?retryWrites=true&w=majority&appName=Utkarsh9")
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "Movie_Centre1")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "hakshsgs")
 
 
 # Other Variables Config
